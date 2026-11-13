@@ -4,6 +4,8 @@
 
 **Build. Connect. Innovate.**
 
+[English](README.md) | [日本語](README.ja.md) | [繁體中文](README.zh-TW.md)
+
 Welcome to the official GitHub organization for Finger Trader. We build financial technology infrastructure, trading connectivity, and developer tools for modern financial markets.
 
 Our mission is to make financial technology more accessible, interoperable, and reliable through robust APIs, scalable infrastructure, and developer-friendly software.
